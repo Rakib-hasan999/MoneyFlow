@@ -1,0 +1,6 @@
+{
+  "name": "MoneyFlow",
+  "description": "Offline project finance manager for tracking project income, expenses, and net profit or loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
